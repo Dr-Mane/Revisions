@@ -1,0 +1,120 @@
+#FFR2022.01
+
+
+Quelle est la définition de l'alimentation ?
+
+L'alimentation est l'ensemble des opérations permettant de fournir à une arme les munitions qu'elle doit tirer et en évacuer les résidus de tir.
+Cette alimentation se compose de deux phases :
+Le chargement des munitions et l'évacuation des étuis vides.
+
+
+Quelles sont les opérations à effectuer pour assurer l'alimentation ?
+
+- L'emmagasinage ou garnissage
+- L'approvisionnement
+- Le transport
+- La distribution
+- La présentation
+- L'introduction
+- L'extraction
+- L'ejection
+
+
+Quelles sont les sortes d'introduction ?
+
+- Introduction directe
+- Introduction indirecte
+
+
+// MAGASIN
+
+
+Quels sont les familles de magasins ?
+
+- Les magasins faisant partie intégrante de l'arme
+- Les magasins indépendants de l'arme
+- Les magasins particuliers
+
+
+Quels sont les magasins faisant partie intégrante de l'arme ?
+
+- Magasin dans la boîte de culasse : 
+	- A chargeur introduit
+	- A chargeur non introduit
+- Magasin tubulaire dans le fût ou dans la crosse
+
+
+Quels sont les magasins indépendants de l'arme ?
+
+- Fixes pendant le tir
+- Mobiles pendant le tir
+
+
+Quels sont les magasins fixes pendant le tir ?
+
+- A pile unique où à piles imbriquées dont la première cartouche est en appui sur une ou deux lèvres de distribution 
+- A pivotement et changement de plan de la cartouche
+- A tambour fixe
+
+
+Quels sont les magasins mobiles pendant le tir ?
+
+- A tambour tournant 
+- A bandes souples mues par le moteur général de l'arme :
+	- A maillons métalliques détachables : ouverts ou fermés
+ 	- A maillons métalliques non-détachables : ouverts ou fermés
+
+
+//EXTRACTION
+
+
+Quelles sont les familles d'extracteurs :
+
+- A action normale
+- A rainures de culasse
+- A action forcée
+
+
+Quels sont les types extracteurs à action normale ?
+
+- A lame ressort à griffe
+- Extracteur axé et poussé par ressort
+- A translation
+- A talon
+
+Quels sont les types d'extracteurs à rainures de culasse ?
+
+- Simple
+- Double
+
+
+Quels sont les types d'extracteurs à action forcée ?
+
+- BERDAN
+- ENT
+
+
+// ÉJECTION
+
+
+Quels sont les différents types d'éjecteurs ?
+
+- Projetant l'étui hors de l'arme
+- Abandonnant l'étui hors de l'arme
+
+
+Quels sont les éjecteurs projetant l'étui hors de l'arme ?
+
+- Fixe, porté par :
+	- la boîte de culasse
+	- le bloc de commande
+- Effaçable, porté par :
+	- la boîte de culasse
+	- la culasse
+- Ayant un mouvement propre, porté par la culasse
+
+
+Quels sont les deux types d'alimentation des couvercles d'alimentation ?
+
+- L'alimentation alternative par bande (armé culasse fermée)
+- L'alimentation continue par bande (armé culasse ouverte)

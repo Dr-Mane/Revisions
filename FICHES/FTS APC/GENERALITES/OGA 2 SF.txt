@@ -1,0 +1,74 @@
+#FFR2022.01
+
+Quelles conditions doit remplir le système de fermeture ?
+
+- Assurer la robustesse et l'étanchéité de la liaison canon-culasse au moment du départ de coup.
+- Permettre, après le départ de coup, le maintien de la culasse en position fermeture. 
+- Autoriser, entre deux coups consécutifs, toutes les manœuvres de la culasse.
+
+
+Quelles sont les deux positions extrêmes de la culasse ?
+
+- L'ouverture
+- La fermeture
+
+
+Les différents systèmes de fermeture :
+
+- Culasse fixe
+- Culasse mobile
+
+
+Les catégories de culasses mobiles :
+
+- Culasses calées
+- Culasses non-calées
+
+
+Définition de la culasse calée :
+
+La culasse d'une arme est dite calée lorsque celle-ci est appliquée contre la face postérieure du canon et qu'un dispositif quelconque lui interdit tout mouvement suivant l'axe du canon. Ce dispositif s'appelle verrou.
+
+
+Les catégories de verrous :
+
+- Les verrous fixes
+- Les verrous mobiles
+
+
+Les différents types de verrous fixes :
+
+- Culasse à rabattement
+- Culasse rotative
+- Culasse béquille
+- Culasse béquille variante Colt
+- Culasse béquille à plans inclinés (verrouillage par tenons / par le tonnerre)
+
+
+Les différents types de verrous mobiles:
+
+- A translation ou glissant
+- A rotation ou bague verrou
+- A béquille rigide à étai oblique simple
+- A béquille rigide à étais oblique double
+
+
+Définition de la culasse non-calée :
+
+La culasse d'une arme est dite non-calée lorsqu'en position de fermeture, elle est maintenue appliquée contre la face postérieure du canon par la seule force du ressort récupérateur.
+
+
+Les différents types de culasses non-calées :
+
+- Ralentie par sa seule inertie
+- A retard à l'ouverture (à levier et masse additionnelle / à galet)
+
+
+Définition de la feuillure :
+
+Dans les armes à culasse calée, on appelle feuillure la distance qui sépare le fond de la cuvette de tir, point d'appui du culot de la cartouche, de la surface d'appui de l'étui dans la chambre (surface qui limite le mouvement de l'étui vers l'avant), lorsque le verrouillage est réalisé.
+
+
+Définition de la profondeur de chambre :
+
+Dans les armes à culasse non-calée, on appelle profondeur de chambre la distance qui sépare le fond de la cuvette de tir, point d'appui du culot de la cartouche, de la surface d'appui de l'étui dans la chambre, lorsque la fermeture est réalisée.

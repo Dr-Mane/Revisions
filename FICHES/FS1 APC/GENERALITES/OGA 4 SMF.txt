@@ -1,0 +1,126 @@
+#FFR2022.01
+
+
+Quels sont les deux éléments qui composent les systèmes de mise de feu ?
+
+- Les mécanismes de détente
+- Les mécanismes de percussion
+
+
+// MÉCANISMES DE DÉTENTE
+
+
+Quelle est la définition du mécanisme de détente ?
+
+Un mécanisme de détente a pour rôle d'accrocher et de maintenir en position d'armé la masse percutante ou les parties mobiles jusqu'à ce que le tireur donne l'ordre de feu.
+
+
+Quels éléments composent le mécanisme de détente ?
+
+- La détente
+- La gâchette
+- Le ressort de gâchette
+
+
+Quelles sont les familles de mécanismes de détente ?
+
+- Mécanismes simples de détente
+- Mécanisme de détente des armes semi-automatiques
+- Mécanismes de détente particuliers
+
+
+Quels sont les types de mécanismes simples de détente ?
+
+- Détente et gâchette
+- Détente, relais et gâchette
+
+
+Quels sont les types de mécanismes de détente des armes semi-automatiques :
+
+- A séparateur
+- A échappement :
+	- A double échappement
+	- A mentonnet à échappement
+	- A échappement de gâchette
+
+
+Quels sont les types de mécanismes de détente particuliers ?
+
+- Des armes à tir mixte
+- A deux détentes
+- A double bossettes réglables ou non
+- A déclencheur de gâchette et repos de détente
+- A gâchettes automatiques commandées par :
+	- Un levier
+	- Un plan incliné
+	- La pièce de manœuvre	
+- A limiteur de rafale avec compteur de coups
+
+
+// MÉCANISMES DE PERCUSSION
+
+
+Quelle est la définition du mécanisme de percussion ?
+
+Un mécanisme de percussion est un ensemble de pièce dont l'énergie cinétique accumulée lors d'une course est responsable de l'écrasement de l'amorce de la cartouche.
+
+
+Quelles pièces essentielles composent un mécanisme de percussion ?
+
+- Le percuteur
+- La masse percutante
+- Le ressort de percussion
+
+
+Quels sont les modes de percussion ?
+
+- La percussion circulaire
+- La percussion rectiligne
+- Le percuteur fixe
+- La mise de feu électrique
+
+
+Quels sont les différents types de percussions circulaires ?
+
+- Le percuteur indépendant de la masse percutante :
+	- Le percuteur appuyé
+	- Le percuteur lancé
+- Le percuteur solidaire de la masse percutante
+
+
+Quels sont les différents types de percussions rectilignes ?
+
+- Le percuteur indépendant et faisant masse percutante, commandé par :
+	- Un levier
+	- La détente
+	- Le rabattement de la culasse
+- Le percuteur solidaire et commandé par la masse percutante, qui peut être :
+	- La pièce de manœuvre
+	- La masse additionnelle
+	- La culasse
+
+
+Quelles sont les différentes sources d'énergie pour une mise de feu électrique ?
+
+- Une bobine d'induction
+- Des piles
+- Le véhicule porteur
+
+
+Quelle est la définition de l'armé ?
+
+L'armé est l'état durant lequel la masse percutante est accrochée sur la gâchette par son cran d'armé. Dans cette position, le ressort de percussion est comprimé.
+
+
+Quels sont les sortes d'armé ?
+
+- L'armé culasse fermée
+- L'armé culasse ouverte
+
+
+Quels sont les modes d'action ?
+
+- Simple action
+- Double action
+(Double effet si double action uniquement pour le 1er départ de coup)
+- Double action permanente (Double Action Only : DAO)

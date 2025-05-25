@@ -1,0 +1,141 @@
+#FFR2022.01
+
+
+Classification :
+
+- Arme d'épaule / Fusil d'assaut
+- Arme automatique
+- A tir mixte
+
+
+Désignation :
+
+- Fusil d'assaut
+- 5,56x45mm
+- Modèle F1
+- Manufacture d'arme de Saint-Etienne
+
+
+Pièce de sécurité :
+
+Le boitier de mécanisme
+
+
+Pièces matriculées :
+
+La carcasse
+
+
+1) DALP :
+
+- Canon rayé, 3 ou 6 rayures à droite au pas de 12 pouces
+- Chambre cannelée pour étui tronconique à gorge
+
+
+2) SF :
+
+Culasse non calée, de type à retard à l'ouverture à levier et masse additionnelle
+
+
+3) SM :
+
+Action directe de la veine gazeuse
+
+
+4.A) Mécanisme de détente :
+
+Particulier, de type des armes à tir mixte :
+	- Coup par coup : MD des armes semi-automatiques, de type à échappement de gâchette
+	- En rafale : MD particulier, de type à gâchette automatique, commandée par un levier
+	- En rafale de 3 : MD particulier, de type à limiteur de rafale et compteur de coups
+
+
+4.B) Mécanisme de percussion :
+
+- Percussion circulaire
+- Percuteur appuyé
+- Retrait mécanique du percuteur
+- Armé culasse fermée
+
+
+5.A) Sûretés :
+
+- Sûretés non automatiques :
+	Levier enrayant la détente
+//
+- Sûretés automatiques :
+	Néant
+
+
+5.B) Sécurités à la fermeture :
+
+- Gâchette de sécurité (gâchette automatique)
+- Usinage de sécurité
+- Levier de sécurité (LAI/LRO)
+
+
+5.C) Sécurités complémentaires :
+
+- Sécurité à l'ouverture :
+	Par le retard à l'ouverture
+//
+- Retrait du percuteur :
+	Retrait du percuteur par le LAI
+//
+- Sécurité à la percussion :
+	Maintien du percuteur par le LAI
+//
+- Cran de sécurité :
+	Porté par l'entraineur de gâchette
+
+
+6.1) Magasin :
+
+- Magasin indépendant de l'arme, de type fixe pendant le tir
+- Boîte chargeur de forme parallélépipédique à pile imbriquée
+- 1ere cartouche en appui sur 1 lèvre de distribution
+- Introduction directe
+
+
+6.2) Extracteur :
+
+- A action normale, de type à talon
+
+
+6.3) Ejecteur :
+
+Projetant l'étui hors de l'arme, à ressort, de type ayant un mouvement propre en translation pendant l'action, porté par la culasse
+
+
+7) AP :
+
+- Hausse unique à œilletons réglable en hauteur
+- Guidon rectangulaire réglable en direction
+
+
+8.A) Refroidissement :
+
+Néant
+
+
+8.B) Cadence :
+
+Néant
+
+
+8.C) Réduction des Réactions dues au Tir :
+
+- Angle de couche nul
+- Amortisseur à ressort dans la crosse
+
+
+8.D) Facilités d'Approvisionnement :
+
+Néant
+
+
+9) RC :
+
+- Tir FLG
+- Arme ambidextre
+- Bipied
