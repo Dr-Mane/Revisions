@@ -1,0 +1,85 @@
+#FFR2022.01
+
+Simple action
+0. Position Initiale des Pièces (PIP) :
+
+- L'arme est prête au tir
+- A l'état de l'armé :
+	- Le cran d'armé du marteau est au contact du cran d'armé de la gâchette
+	- Le ressort de percussion est comprimé
+- La tête du séparateur est dans l'évidement de la glissière
+- La sûreté de percuteur est active
+- Le ressort récupérateur est décomprimé
+
+
+Simple action
+1. L'action du tireur sur la détente provoque (ATD) :
+
+- Rotation de la détente
+- Mouvement avant de la barrette
+- Rotation de la gâchette
+- Effacement de la sûreté de percuteur
+- Rupture de l'armé
+- Décompression du ressort de percussion
+- Rotation du marteau
+- Percussion
+- Retrait du percuteur
+
+
+
+Double action
+0. Position Initiale des Pièces (PIP) :
+
+- L'arme est prête au tir
+- La barrette est au contact du cran de double action, le marteau est à l'abattu
+- La gâchette est au contact de la noix du marteau
+- Le ressort de percussion est décomprimé
+- La tête du séparateur est dans l'évidement de la glissière
+- La sûreté de percuteur est active
+- Le ressort récupérateur est décomprimé
+
+
+Double action
+1. L'action du tireur sur la détente provoque (ATD) :
+
+- Rotation de la détente
+- Mouvement avant de la barrette
+- Rotation du marteau
+- Compression du ressort de percussion
+- Rotation de la gâchette
+- Effacement de la sûreté de percuteur
+- Echappement de la masse percutante
+- Décompression du ressort de percussion
+- Rotation du marteau
+- Percussion
+- Retrait du percuteur
+
+
+2. Le mouvement arrière (MVMT ARR) :
+
+Agent moteur : Action directe de la veine gazeuse
+- Course de garde
+- Déverrouillage
+- Ouverture
+- Extraction (1) / Ejection (1)
+- Transport / Distribution (2) / Présentation (2)
+- 1er temps de l'armé (franchissement)
+- Compression du ressort récupérateur
+- Fin de recul
+
+
+3. Le mouvement avant (MVMT AV) :
+
+Agent moteur : Décompression du ressort récupérateur
+- Mouvement vers l'avant de la glissière
+- Introduction (2)
+- Transport
+- 2eme temps de l'armé (accrochage)
+- Fermeture
+- Verrouillage
+- Course de garde
+
+
+- NOTA :
+
+- Le tireur est obligé de relâcher le doigt de la détente pour permettre un nouveau départ de coup. Le relâchement provoque le mouvement vers l'arrière de la barrette et sa remise en place en position initiale derrière la gâchette.

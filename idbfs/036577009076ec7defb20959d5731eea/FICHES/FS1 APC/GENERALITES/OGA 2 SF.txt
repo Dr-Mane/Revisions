@@ -1,0 +1,108 @@
+#FFR2022.01
+
+
+Quelles conditions doit remplir le système de fermeture des armes ?
+
+- Robustesse et étanchéité
+- Maintien de la culasse
+- Permettre l'alimentation
+
+
+Quelles sont les deux catégories de systèmes de fermeture ?
+
+- Les systèmes de fermeture (culasses) fixes
+- Les systèmes de fermeture (culasses) mobiles
+
+
+Quelles sont les deux familles de culasses mobiles ?
+
+- Les culasses calées
+- Les culasses non-calées
+
+
+Quelles sont les deux positions extrêmes de la culasse ?
+
+- La position d'ouverture
+- La position de fermeture
+
+
+Quelles sont les deux manières d'immobiliser la culasse au moment du tir ?
+
+- Par une liaison mécanique (pour culasse calée)
+- Par l'exploitation d'un phénomène physique (pour les culasses non-calées)
+
+
+Quelles sont les opérations nécessaires afin de rompre la liaison d'une culasse calée ?
+
+- Le déverrouillage
+- L'ouverture
+
+
+Quelle opération est nécessaire afin de rompre la liaison d'une culasse non-calée ?
+
+- L'ouverture
+
+
+Quelle est la définition de la culasse calée ?
+
+Une culasse est qualifiée de "calée" lorsqu'elle est positionnée et maintenue contre la face postérieure du canon par un dispositif appelé verrou. Ce verrou lui empêche tout mouvement le long de l'axe du canon au moment du départ du coup. Il existe deux catégories de verrous : les verrous fixes et les verrous mobiles.
+
+
+Quelles sont les catégories de verrous ?
+
+- Les verrous fixes
+- Les verrous mobiles
+
+
+Quels sont les différents types de verrous fixes ?
+
+- Culasse à rabattement
+- Culasse béquille
+- Culasse béquille variante Colt
+- Culasse béquille à plans inclinés : 
+	- verrouillage par tenons
+	- verrouillage par le tonnerre
+- Culasse rotative
+
+
+Quels sont les différents types de verrous mobiles ?
+
+- A translation ou glissant
+- A rotation ou bague verrou
+- A béquille rigide à étai oblique simple
+- A béquille rigide à étais oblique double
+
+
+Par quoi peut être commandé un verrou mobile ?
+
+- Une pièce de manœuvre
+- Un levier
+- Une rampe
+
+
+Quelle est la définition de la culasse non-calée ?
+
+Une culasse est qualifiée de "non-calée", lorsqu'elle positionnée et maintenue contre la face postérieure du canon par la force du ressort récupérateur, sans dispositif de verrouillage au moment du départ de coup.
+
+
+Quels sont les différents types de culasses non-calées ?
+
+- Ralentie par sa seule inertie
+- A retard à l'ouverture :
+	- A levier et masse additionnelle
+	- A galets
+
+
+Qu'est ce que l'obturation par expansion ?
+
+La pression des gaz provoque une expansion de l'étui contre la chambre du canon et la culasse, il forme ainsi un joint d'étanchéité.
+
+
+Définition de la feuillure :
+
+La feuillure est la distance entre la cuvette de tir et la surface d'appui de l'étui dans la chambre, lorsque le verrouillage est réalisé. Le contrôle de la feuillure s'effectue sur une arme à culasse calée.
+
+
+Définition de la profondeur de chambre :
+
+La profondeur de chambre est la distance entre la cuvette de tir et la surface d'appui de l'étui dans la chambre, lorsque la fermeture est réalisée. Le contrôle de la profondeur de chambre s'effectue sur une arme à culasse non-calée.

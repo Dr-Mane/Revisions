@@ -1,0 +1,150 @@
+#FFR2022.01
+
+
+Classification :
+
+- Mitrailleuse légère
+- Arme automatique
+- A tir continu
+
+
+Désignation :
+
+- Mini mitrailleuse
+- 5,56x45mm
+- MK3
+- FNH (Fabrique Nationale Herstal)
+
+
+Pièce de sécurité :
+
+La culasse
+
+
+Pièces matriculées :
+
+- La carcasse
+- Les canons
+
+
+1) DALP :
+
+- Canon rayé, chromé. 6 rayures à droite au pas de 7 pouces
+- Chambre chromée pour étui tronconique à gorge
+
+
+2) SF :
+
+Culasse calée à verrou fixe, de type culasse rotative
+
+
+3) SM :
+
+- Action indirecte de la veine gazeuse, emprunt des gaz en 1 point du canon
+- Tuyauterie courte
+
+
+4.A) Mécanisme de détente :
+
+Particulier, de type à déclencheur de gâchette et repos de détente
+
+
+4.B) Mécanisme de percussion :
+
+- Percussion rectiligne
+- Percuteur solidaire et commandé par la pièce de manœuvre
+- Retrait mécanique du percuteur
+- Armé culasse ouverte
+
+
+5.A) Sûretés :
+
+- Sûretés non automatiques :
+	Bouton enrayant la gâchette
+//
+- Sûretés automatiques :
+	Néant
+
+
+
+5.B) Sécurités au verrouillage :
+
+Rampe de sécurité
+
+
+5.C) Sécurités complémentaires :
+
+- Sécurité au déverrouillage :
+	Par la course de garde
+//
+- Retrait du percuteur :
+	Pendant la CDG par le recul de la pièce de manœuvre
+//
+- Sécurité à la percussion :
+	Rampe de sécurité
+//
+- Cran de sécurité :
+	Anti-runaway porté par la gâchette et la pièce de manœuvre
+
+
+6.1) 1er type de magasin :
+
+- Magasin indépendant de l'arme, de type mobile pendant le tir
+- Mû par le moteur général de l'arme à entrainement continu
+- Bande souple à maillons métalliques, ouverts et détachables de type M27
+- Introduction directe
+
+
+6.1) 2eme type de magasin :
+
+- Magasin indépendant de l'arme, de type fixe pendant le tir
+- Boite chargeur de forme semi-curviligne de type M16 à pile imbriquée
+- 1ere cartouche en appui sur 1 lèvre de distribution
+- Introduction directe
+
+
+6.2) Extracteur :
+
+A action normale, de type axé et poussé par ressort
+
+
+6.3) Ejecteur :
+
+Projetant l'étui hors de l'arme, de type effaçable et porté par la boite de culasse
+
+
+7) AP :
+
+- Hausse réglable à axe excentré de 300 à 1000 mètres et réglable en direction
+- Guidon rectangulaire réglable en hauteur et en direction
+
+
+8.A) Refroidissement :
+
+- Echange rapide du canon
+- 2 canons
+- Armé culasse ouverte
+
+
+8.B) Cadence :
+
+- Régulation automatique
+- Amortisseur régulateur (hydraulique)
+
+
+8.C) Réduction des Réactions dues au Tir :
+
+- Angle de couche nul
+- Amortisseur hydraulique
+- Cache-flammes
+
+
+8.D) Facilité d'Approvisionnement :
+
+Alimentation multiple
+
+
+9) RC :
+
+- Bipieds
+- Poignée de transport

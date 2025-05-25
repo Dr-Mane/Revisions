@@ -1,0 +1,140 @@
+#FFR2022.01
+
+
+Classification :
+
+- Arme de poing / Pistolet automatique
+- Arme semi-automatique
+- DAO (Double Action Only)
+
+
+Désignation :
+
+- Pistolet semi-automatique
+- 9x19mm
+- 17 GEN 5 FR
+- GLOCK
+
+
+Pièce de sécurité :
+
+Le canon
+
+
+Pièces matriculées :
+
+- La carcasse
+- La glissière
+- Le canon
+
+
+1) DALP :
+
+- Canon rayé, chromé au profil polygonal de type GMB (Glock Marksmann Barrel). 6 rayures à droite au pas de 250mm
+- Chambre chromée pour étui cylindrique à gorge
+
+
+2) SF :
+
+Culasse calée à verrou fixe, de type culasse béquille à plan incliné, verrouillage par tonnerre
+
+
+3) SM :
+
+- Action directe de la veine gazeuse
+- Court recul du canon
+
+
+4.A) Mécanisme de détente :
+
+Des armes semi-automatiques, de type à connecteur (séparateur)
+
+
+4.B) Mécanisme de percussion :
+
+- Percussion rectiligne
+- Percuteur indépendant et faisant masse percutante commandé par la détente
+- Retrait mécanique du percuteur
+- Armé culasse fermée
+
+
+5.A) Sûretés :
+
+Sûretés non automatique :
+	Néant
+//
+Sûretés automatiques :
+	- Sûreté de détente
+	- Sûreté de percuteur
+	- Sûreté de chute
+
+
+5.B) Sécurités au verrouillage :
+
+- Connecteur
+
+
+5.C) Sécurités complémentaires :
+
+- Sécurité au déverrouillage :
+	Par la course de garde
+//
+- Retrait du percuteur :
+	Retrait du percuteur par inertie avant la CDG
+//
+- Sécurité à la percussion :
+	Le percuteur reste libre dans son logement
+//
+- Cran de sécurité :
+	Néant
+
+
+
+6.1) Magasin :
+
+- Magasin indépendant de l'arme, de type fixe pendant le tir
+- Boite chargeur de forme parallélépipédique à pile imbriquée
+- 1ere cartouche en appui sur les 2 lèvres de distribution
+- Introduction directe 
+
+
+6.2) Extracteur :
+
+A action normale, de type à talon
+
+
+6.3) Ejecteur :
+
+Projetant l'étui hors de l'arme, de type fixe et porté par le bloc de commande
+
+
+7) AP :
+
+Hausse unique à cran de mire interchangeable et réglable en direction (4 tailles de cran de mire) et guidon rectangulaire fixe
+
+
+8.A) Refroidissement :
+
+Néant
+
+
+8.B) Cadence :
+
+Néant
+
+
+8.C) Réduction des Réactions dues au Tir :
+
+Ressort récupérateur / amortisseur
+
+
+8.D) Facilités d'Approvisionnement :
+
+Arrêt du tir culasse ouverte en fin de chargeur
+
+
+9) RC :
+
+- Kit MBS (Modular BackStrap)
+- Arme ambidextre
+- Fluorescence des organes de visée

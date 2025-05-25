@@ -1,0 +1,81 @@
+#FFR2022.01
+
+
+0. Position Initiale des Pièces (PIP) :
+
+- L'arme est prête au tir
+- A l'état de l'armé :
+	- Le cran d'armé du marteau est au contact du cran d'armé de la gâchette commandée
+	- Le ressort de percussion est comprimé
+- Le levier est en position verticale
+- La gâchette automatique (gâchette de sécurité) est effacée
+- Le ressort récupérateur est décomprimé
+
+
+1. L'action du tireur sur la détente provoque (ATD) :
+
+- Rotation de la détente
+- Mouvement avant de la tringle de liaison
+- Rotation de l'entraineur de gâchette commandée
+- Rotation de la gâchette commandée
+- Rupture de l'armé
+- Décompression du ressort de percussion
+- Rotation du marteau
+- Percussion
+
+
+Coup par coup
+2. Le mouvement arrière (MVMT ARR) :
+
+Agent moteur : Action directe de la veine gazeuse
+- Ouverture, retrait du percuteur
+- Extraction (1) / Ejection (1)
+- Transport / Distribution (2) / Présentation (2)
+- 1er temps de l'armé sur la gâchette commandée
+- 1er temps de l'armé sur la gâchette automatique
+- Compression du ressort récupérateur
+- Amortissement des parties mobiles
+- Fin de recul
+
+
+Coup par coup
+3. Le mouvement avant (MVMT AV) :
+
+Agent moteur : Décompression du ressort récupérateur
+- Mouvement vers l'avant des parties mobiles
+- Introduction (2)
+- Transport
+- 2eme temps de l'armé sur la gâchette automatique
+- Fermeture
+- 2eme temps de l'armé sur la gâchette commandée
+
+
+Rafale
+2. Le mouvement arrière (MVMT ARR) :
+
+Agent moteur : Action directe de la veine gazeuse
+- Ouverture, retrait du percuteur
+- Extraction (1) / Ejection (1)
+- Transport / Distribution (2) / Présentation (2)
+- 1er temps de l'armé sur la gâchette automatique
+- Compression du ressort récupérateur
+- Amortissement des parties mobiles
+- Fin de recul
+
+
+Rafale
+3. Le mouvement avant (MVMT AV) :
+
+Agent moteur : Décompression du ressort récupérateur
+- Mouvement vers l'avant des parties mobiles
+- Introduction (2)
+- Transport
+- 2eme temps de l'armé sur la gâchette automatique
+- Fermeture
+- Percussion
+
+
+
+- NOTA :
+
+- Le tireur est obligé de relâcher le doigt de la détente pour permettre un nouveau départ de coup. Le relâchement provoque le mouvement arrière de la tringle de liaison et la remise en place de l'entraineur de gâchette commandée derrière la gâchette commandée
