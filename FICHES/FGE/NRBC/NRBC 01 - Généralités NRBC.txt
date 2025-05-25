@@ -1,0 +1,39 @@
+#FFR2022.01
+
+Que signifie NRBC ?
+
+Nucléaire, Radiologique, Biologique, Chimique
+
+
+Quels sont les différents risques NRBC ?
+
+- Classiques : armes nucléaires, armes biologiques, armes chimiques
+- Terroristes : action menée par des terroristes pouvant utiliser des moyens NRBC
+- Industriel : rejets NRBC issus d'accidents industriels dus à la vétusté des installations ou d'actes malveillants
+
+
+Qu'est-ce qui caractérise le danger nucléaire ?
+
+- 1 : Destruction massive et instantanée.
+	Puissance en milliers de tonnes d'explosif (kt)
+- 2 : Émissions de matières radioactives :
+	- Pénétration dans l'organisme
+	- Contamination des terrains
+
+
+Qu'est-ce qui caractérise le danger radiologique ?
+
+L'irradiation ou une contamination par de la matière radioactive sont les risques liés au danger radiologique
+
+
+Qu'est-ce qui caractérise le danger biologique ?
+
+
+- 1 : Microbes, virus, toxines, champignons
+- 2 : Agents contagieux ou non
+- 3 : Mort par empoisonnement
+
+
+Qu'est-ce qui caractérise le danger chimique ?
+
+Mort des hommes et/ou contamination du terrain. Effets psychologiques forts.

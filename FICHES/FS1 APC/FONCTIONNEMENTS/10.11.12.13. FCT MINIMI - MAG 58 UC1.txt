@@ -1,0 +1,44 @@
+#FFR2022.01
+
+
+0. Position Initiale des Pièces (PIP) :
+
+- L'arme est prête au tir
+- A l'état de l'armé :
+	- Le cran d'armé du piston est au contact du cran d'armé de la gâchette
+	- Le ressort récupérateur faisant office de ressort de percussion est comprimé
+- La cartouche (1) est sous l'abaisseur
+- Le cliquet central est situé entre les cartouches (1) et (2)
+- Les cliquets extérieurs sont situés entre les cartouches (2) et (3)
+
+
+1. L'action du tireur sur la détente provoque (ATD) :
+
+- Rotation de la détente
+- Rotation de la gâchette
+- Rupture de l'armé
+
+
+2. Le mouvement avant (MVMT AV) :
+
+Agent moteur : Décompression du ressort de percussion (récupérateur)
+- Mouvement avant des parties mobiles
+- Introduction (1)
+- Transport
+- Fermeture
+- Verrouillage
+- Course de garde
+- Percussion (1)
+
+
+3. Le mouvement arrière (MVMT ARR) :
+
+Agent moteur : Action indirecte de la veine gazeuse
+- Course de garde et retrait du percuteur
+- Déverrouillage
+- Ouverture
+- Extraction (1) / Ejection (1)
+- Transport / Distribution (2) / Présentation (2)
+- Compression du ressort récupérateur
+- Amortissement des parties mobiles
+- Fin de recul

@@ -1,0 +1,58 @@
+#FFR2022.01
+
+Définition de la radiotéléphonie :
+
+La radiotéléphonie consiste à transmettre par les ondes radioélectriques des conversations entre deux ou plusieurs correspondants.
+
+
+Quels sont les emplacements à éviter pour l'utilisation du poste ?
+
+- Les forêts et agglomérations
+- Les fonds de thalwegs
+- La proximité des lignes à haute tension
+- La proximité des masses métalliques (ponts, hangars, etc)
+
+
+Quels sont les risques liés à l'utilisation d'équipements radiotéléphoniques ?
+
+- L'électrocution
+- Le rayonnement
+- L'incendie
+- L'implosion
+
+
+Quelles sont les mesures de prévention ?
+
+- Il est interdit de placer parallèlement lignes électriques et lignes téléphoniques
+- Ne jamais toucher une antenne lorsque le poste radio est en "émission"
+- Toujours respecter le "zonage" balisé contre le rayonnement électromagnétique
+- Les piles, batteries et accumulateurs sont susceptibles de provoquer un incendie, d'imploser et de polluer. Il faut impérativement respecter les règles de stockage, d'utilisation et d'élimination en particulier avec les piles au lithium.
+
+
+La règle des 4A :
+
+- Arrêt
+- Antenne
+- Alimentation
+- Accessoires
+
+
+Définition de la station radio :
+
+Appareil ou ensemble d'équipements radio assurant la liaison dans le cadre d'un réseau.
+
+
+
+Définition de la station directrice :
+
+Station qui dessert en principe la plus haute autorité. Elle est chargée de faire appliquer les règles de procédure.
+
+
+Définition du réseau :
+
+Ensemble de stations travaillant entre elles suivant les mêmes caractéristiques d'exploitation (fréquence, régime).
+
+
+Quels sont les deux types de réseau et quelle est leur différence ?
+
+- Le réseau libre et le réseau dirigé. Dans un réseau dirigé il faut demander l'autorisation à la station directrice avant de communiquer avec une autre station.

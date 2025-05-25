@@ -1,0 +1,82 @@
+#FFR2022.01
+
+
+Quels sont les types de sécurisation d'une arme ?
+
+- Le sûretés
+- Les sécurités au verrouillage ou à la fermeture
+- Les sécurités complémentaires
+
+
+// LES SÛRETÉS
+
+
+Quelle est la définition des sûretés ?
+
+La sûreté à pour rôle d'immobiliser ou d'empêcher le fonctionnement du système de mise de feu, lorsque l'arme est au repos, qu'elle soit chargée ou non. L'effacement de la sûreté nécessite l'action du tireur, cela marque son intention et sa volonté d'effectuer un tir.
+
+
+Quels sont les types de sûretés ?
+
+- Les sûretés non-automatiques (SNA)
+- Les sûretés automatiques (SA)
+
+
+Que peuvent faire les différentes sûretés non-automatiques ?
+
+- Enrayer le mécanisme de détente :
+	- Soit la gâchette
+	- Soit la détente
+- S'interposer entre le percuteur et la masse percutante
+
+
+Quelles peuvent être les différentes suretés automatiques ?
+
+- La poignée de sûreté
+- La sûreté de chargeur
+- La sûreté de détente
+- La sûreté de percuteur
+
+
+// LES SÉCURITÉS AU VERROUILLAGE OU A LA FERMETURE
+
+
+Quelle est la définition des sécurités au verrouillage ou à la fermeture ?
+
+Les sécurités au verrouillage ou à la fermeture sont des dispositifs empêchant le départ du coup tant que la culasse n'est pas fermée ou verrouillée. Ces dispositifs sont actifs uniquement pendant le mouvement des parties mobiles et sont effacés lors de la fermeture ou du verrouillage de la culasse. Le tireur n'a aucune action sur les sécurités. Ce sont les GRULS :
+- Les Gâchettes de sécurité
+- Les Rampes de sécurité
+- Les Usinages de sécurité
+- Les Leviers de sécurité
+- Les Séparateurs
+
+
+Quelles sont les sécurités complémentaires ?
+
+- La sécurité au déverrouillage ou à l'ouverture
+- Le retrait du percuteur
+- La sécurité à la percussion
+- Le cran de sécurité
+
+
+Quelle est la définition de la course de garde ?
+
+La course de garde est la distance de sécurité parcourue par la pièce de manœuvre ou par l'ensemble culasse-canon, avant le déverrouillage et après le verrouillage de la culasse. Ainsi cette course se produit pendant que la culasse est fermée et verrouillée. Elle est spécifique aux armes à culasse calée.
+
+
+Quels sont les rôles de la course de garde ?
+
+- Permettre au projectile de quitter le canon
+- Dans certains cas, permettre le retrait du percuteur
+- Rendre actives les sécurités au verrouillage (GRULS)
+- Annuler et empêcher le rebond des pièces mobiles
+
+Par quoi peut être réalisé le retrait d'un percuteur appuyé ?
+
+- Un ressort de rebondissement
+- Une commande mécanique spéciale
+
+
+Qu'est ce qui est nécessaire au retrait d'un percuteur faisant masse percutante ?
+
+Une pièce spécifique (ex levier d'armé, rampe hélicoïdale)

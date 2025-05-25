@@ -1,0 +1,142 @@
+#FFR2022.01
+
+
+Classification :
+
+- Arme d'épaule / Fusil d'assaut
+- Arme automatique
+- A tir mixte
+
+
+Désignation :
+
+- Fusil d'assaut
+- 5,56x45mm
+- Modèle 416 F S ou C
+- HK (Heckler & Koch)
+
+
+Pièce de sécurité :
+
+L'ensemble mobile
+
+
+Pièces matriculées :
+
+- La carcasse supérieure et inférieure
+- Le canon
+- La culasse
+
+
+1) DALP :
+
+- Canon rayé, chromé, 6 rayures à droite au pas de 7 pouces
+- Chambre chromée pour étui tronconique à gorge
+
+
+2) SF :
+
+Culasse calée à verrou fixe, de type culasse rotative
+
+
+3) SM :
+
+- Action indirecte de la veine gazeuse, emprunt des gaz en 1 point du canon
+- Système à impulsion
+
+
+4.A) Mécanisme de détente :
+
+Particulier, de type des armes à tir mixte :
+	- Coup par coup : MD des armes semi-automatiques, de type à double échappement
+	- En rafale : MD particulier, de type à gâchette automatique, commandée par la pièce de manoeuvre
+
+
+4.B) Mécanisme de percussion :
+
+- Percussion circulaire
+- Percuteur appuyé
+- Retrait mécanique du percuteur
+- Armé culasse fermée
+
+
+5.A) Sûretés :
+
+- Sûretés non automatiques :
+	Levier enrayant le mécanisme de détente complet
+//
+- Sûretés automatiques :
+	Levier de sûreté du percuteur
+
+
+5.B) Sécurités à au verrouillage :
+
+- Rampe de sécurité
+- Usinage de sécurité
+
+
+5.C) Sécurités complémentaires :
+
+- Sécurité au déverrouillage :
+	Par la course de garde
+//
+- Retrait du percuteur :
+	Retrait du percuteur pendant la CDG par le recul de la pièce de manœuvre et le ressort de liaison
+//
+- Sécurité à la percussion :
+	Le ressort de liaison
+//
+- Cran de sécurité :
+	Néant
+
+
+6.1) Magasin :
+
+- Magasin indépendant de l'arme, de type fixe pendant le tir
+- Boîte chargeur de forme semi-curviligne de type M16 à pile imbriquée
+- 1ere cartouche en appui sur 1 lèvre de distribution
+- Introduction directe
+
+
+6.2) Extracteur :
+
+- A action normale, de type axé et poussé par ressort
+
+
+6.3) Ejecteur :
+
+Projetant l'étui hors de l'arme, à ressort, de type ayant un mouvement propre en translation pendant l'action, porté par la culasse
+
+
+7) AP :
+
+- Hausse unique à œilletons réglables en hauteur et en direction, rabattables
+- Guidon rectangulaire rabattable
+
+
+8.A) Refroidissement :
+
+Circulation d'air par les ouïes sur le fût
+
+
+8.B) Cadence :
+
+Néant
+
+
+8.C) Réduction des Réactions dues au Tir :
+
+- Angle de couche nul
+- Ressort récupérateur / amortisseur avec masselotte
+
+
+8.D) Facilités d'Approvisionnement :
+
+Arrêt du tir culasse ouverte en fin de chargeur
+
+
+9) RC :
+
+- Tir de grenade pour la version F S
+- Poussoir d'aide à la fermeture
+- Quadri-rail picatinny sur le fût

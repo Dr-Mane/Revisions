@@ -1,0 +1,46 @@
+#FFR2022.01
+
+
+0. Position Initiale des Pièces (PIP) :
+
+- L'arme est prête au tir
+- A l'état de l'armé :
+	- La barrette est au contact de la "gâchette" solidaire de la masse percutante (sûreté de marteau est active)
+	- Le marteau est à l'abattu
+- La grenade est dans la chambre
+- Le ressort de percussion est décomprimé
+- La sûreté de détente est effacée par le levier de verrouillage du canon qui est dans le logement du canon
+- Le levier de sûreté est sur "feu"
+
+
+1. L'action du tireur sur la détente provoque (ATD) :
+
+- Rotation de la détente
+- Mouvement arrière de la barrette
+- Rotation du marteau
+- Compression du ressort de percussion
+- Echappement de la masse percutante
+- Décompression du ressort de percussion
+- Rotation du marteau
+- Percussion
+- Retrait du percuteur
+
+
+2. Le relâchement de la détente provoque :
+
+- La rotation de la détente
+- Mouvement avant de la barrette
+- Mise en place de la sûreté de marteau
+
+
+3. L'alimentation :
+
+Agent moteur : Travail musculaire du servant
+- Déverrouillage du canon
+- Mise en place de la sûreté de détente
+- Rotation du canon
+- Extraction et éjection manuelles par le servant
+- Introduction
+- Rotation du canon
+- Verrouillage du canon
+- Effacement de la sûreté de détente

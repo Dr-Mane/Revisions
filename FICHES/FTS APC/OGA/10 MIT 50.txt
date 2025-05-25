@@ -1,0 +1,128 @@
+#FFR2022.01
+
+Classification :
+
+- Mitrailleuse lourde
+- Automatique
+- Tir mixte
+
+
+Désignation :
+
+- Mitrailleuse
+- 12,7x99mm
+- M2
+- Heavy Barrel (canon lourd)
+
+
+1) DALP :
+
+- Canon rayé
+- 8 rayures à droite au pas de 381 mm
+- Chambre pour étui tronconique à gorge
+
+
+2) SF :
+
+Culasse calée à verrou mobile, à translation (glissant)
+
+
+3) SM :
+
+Action directe de la veine gazeuse sur la culasse, court recul du canon
+
+
+4.1) MP :
+
+- Percussion rectiligne
+- Percuteur indépendant faisant masse percutante commandé par un levier
+- Retrait mécanique du percuteur
+- Armé culasse fermée
+
+
+4.2) MD :
+
+Mécanisme de détente particulier des armes à tir mixte
+- Au coup par coup : mécanisme simple de détente de type détente-relais-gâchette (L'interruption du cycle de fonctionnement au début du retour de la culasse vers l'avant est réalisé par l'arrêtoir de culasse)
+- Tir continu : Mécanisme simple de détente de type détente-relais-gâchette pour le premier coup, et , gâchette automatique commandée par un plan incliné pour les coups suivants (L'arrêtoir de culasse est effacé par le déclencheur, maintenu par le manchon)
+
+
+4.3) MS :
+
+- SNA : Néant
+- SA : Néant
+
+
+4.4) DS :
+
+- Retrait du percuteur
+- Au verrouillage
+- Au déverrouillage
+- A la percussion
+- Levier
+- Course de garde 
+
+
+5.1) Mag :
+
+Magasin indépendant de l'arme, mobile pendant le tir, mû par le moteur général de l'arme, à entraînement alternatif. Bande souple à maillons métalliques fermés détachables de type M2 ou M9, introduction indirecte.
+
+
+5.2) Ex :
+
+Extracteur à rainures doubles de culasse
+
+
+5.3) Ej :
+
+- Éjecteur abandonnant l'étui vers le bas
+- Poussé par la munition suivante ou le doigt éjecteur du TAE pour le dernier étui
+
+
+6) AP :
+
+- Hausse mixte permettant le réglage de la planche de hausse de 100 à 2600 yards (soit de 91 à 2365 m) lorsqu'elle est relevée. Cette planche comprend également une graduation en mil (millième) pour les corrections de site sur affût. Lorsque la planche est rabattue (quelque soit la position de l’œilleton de cadrage) permet le tir à la hausse de combat (700 m)
+- Guidon fixe porté par la boîte de culasse.
+
+
+7.1) R :
+
+- Canon étoffé
+- Échange de canon
+- Radiateur : manchon diffuseur de chaleur
+
+7.2) C :
+
+Accélérateur
+
+
+7.3) RRT :
+
+- Amortisseur de culasse à rondelles en fibre
+- Amortisseur de canon à ressort
+
+
+7.4) FA :
+
+Néant
+
+
+8) RC  :
+
+- Canon muni d'un dispositif de transport servant également à son démontage ou sa mise en place
+- Jauge GO - NO-GO qui permet la vérification de l'espace de tête par l'utilisateur à chaque échange du canon
+- Jauge FIRE - NO-FIRE qui permet la vérification de la mise de feu
+
+
+Pièces matriculées :
+
+- Boîte de culasse (sur le côté droit et plaque supérieure)
+- Glissière
+- Canons
+- Verrou mobile
+- Culasse
+
+
+Pièces de sécurité :
+
+Percuteur et rallonge de percuteur

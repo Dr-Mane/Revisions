@@ -1,0 +1,84 @@
+#FFR2022.01
+
+Quelles sont les formes de stockage de l'agent chimique ?
+
+- Solide
+- Liquide
+- Gazeux
+
+
+Quelles sont les formes de dispersion de l'agent chimique ?
+
+- Liquide
+- Aérosol
+- Vapeur
+
+
+Quels sont les différents modes de dispersion de l'agent chimique ?
+
+- L'explosion (obus, roquettes, missiles, bombes, mines)
+- L'épandage (avions, hélicoptères, drones)
+- Le chauffage
+
+
+Quels sont les différents modes de pénétration de l'agent chimique ?
+
+- Cutanée
+- Percutanée
+- Inhalatoire
+- Digestive
+
+
+Comment se caractérise la résistance d'un agent chimique ?
+
+Par sa durée d'efficacité une fois dispersé. Elle dépend de sa volatilité (dispersion par les éléments météorologiques) et de sa résistance à hydrolyse (dilution dans l'eau)
+
+
+Quels sont les différents niveaux de résistance des agents chimiques ?
+
+- Les agents non persistants (principalement sous forme vapeur)
+- Les agents persistants (sous forme liquide et vapeur)
+- Les agents semi-persistants ( à mi-chemin entre les deux premiers, ils seront traités comme des persistants)
+
+
+Quelles sont les deux grandes familles d'agents chimiques ? Quels sont leurs effets généraux
+
+- Les toxiques : mort
+- Les incapacitants : neutralisation temporaire
+
+
+Quels sont les différents agents toxiques ?
+
+- Les vésicants (ypérite, lewisite)
+- Les toxiques généraux
+- Les suffocants (phosgène)
+
+
+Quels sont les différents toxiques généraux ?
+
+- Les neurotoxiques (A : A4, VX / G : tabun, soman, sarin)
+- Les sanguins (acide cyanhydrique, chlorure et cyanogène, hydrogène arsénié)
+
+
+Quels sont les différents agents incapacitants ?
+
+- Les physiques
+- Les psychiques (LSD, BZ, mescalinées)
+
+
+Quels sont les différents incapacitants physiques ?
+
+- Les irritants
+- Les fonctionnels (alcool, analgésique)
+
+
+Quels sont les différents irritants ?
+
+- Lacrymogène (bromure de banzyle)
+- Respiratoire (adamsite)
+- Urticants (oxyme de phosgène)
+
+
+Quel est le nom du plan national de lutte contre les risques terroristes chimiques ?
+
+Le plan "PIRATOX"

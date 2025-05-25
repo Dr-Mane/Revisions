@@ -1,0 +1,147 @@
+#FFR2022.01
+
+
+Classification :
+
+- Mitrailleuse légère
+- Arme automatique
+- A tir continu
+
+
+Désignation :
+
+- Mitrailleuse d'Appui Général
+- 7,62x51mm
+- Modèle 1958
+- FNH (Fabrique Nationale Herstal)
+
+
+Pièce de sécurité :
+
+L'ensemble mobile
+
+
+Pièces matriculées :
+
+- La carcasse
+- La culasse
+- Les canons 1 et 2
+- Les régulateurs 1 et 2
+- Les manchons des régulateurs 1 et 2
+
+
+1) DALP :
+
+- Canon rayé, chromé. 4 rayures à droite au pas de 12 pouces
+- Chambre chromée pour étui tronconique à gorge
+
+
+2) SF :
+
+Culasse calée à verrou fixe, de type culasse béquille rigide à étai oblique simple
+
+
+3) SM :
+
+- Action indirecte de la veine gazeuse, emprunt des gaz en 1 point du canon
+- Tuyauterie courte
+
+
+4.A) Mécanisme de détente :
+
+Particulier, de type à déclencheur de gâchette et repos de détente
+
+
+4.B) Mécanisme de percussion :
+
+- Percussion rectiligne
+- Percuteur solidaire et commandé par la pièce de manœuvre
+- Retrait mécanique du percuteur
+- Armé culasse ouverte
+
+
+5.A) Sûretés :
+
+- Sûretés non automatiques :
+	Bouton enrayant la gâchette
+//
+- Sûretés automatiques :
+	Néant
+
+
+
+5.B) Sécurités au verrouillage :
+
+Levier de sécurité
+
+
+5.C) Sécurités complémentaires :
+
+- Sécurité au déverrouillage :
+	Par la course de garde
+//
+- Retrait du percuteur :
+	Pendant la CDG par le recul de la pièce de manœuvre
+//
+- Sécurité à la percussion :
+	Le levier de sécurité
+//
+- Cran de sécurité :
+	Anti-runaway porté par la gâchette
+
+
+6.1) Magasin :
+
+- Magasin indépendant de l'arme, de type mobile pendant le tir
+- Mû par le moteur général de l'arme à entrainement continu
+- Bande souple à maillons métalliques, ouverts et détachables de type M13
+- Introduction directe
+
+
+6.2) Extracteur :
+
+A action normale, de type à talon
+
+
+6.3) Ejecteur :
+
+Projetant l'étui hors de l'arme, de type ayant un mouvement propre en translation pendant l'action, porté par la culasse
+
+
+7) AP :
+
+- Hausse mixte :
+	- Planche de hausse rabattue, œilleton gradué de 100 à 800 mètres
+	- Planche de hausse relevée, cran de mire gradué de 800 à 1800 mètres
+- Guidon rectangulaire réglable en hauteur et en direction
+
+
+8.A) Refroidissement :
+
+- Echange rapide du canon
+- 2 canons
+- Canons étoffés
+- Armé culasse ouverte
+
+
+8.B) Cadence :
+
+- Régulateur de cadence
+- Régulation automatique
+
+
+8.C) Réduction des Réactions dues au Tir :
+
+- Angle de couche nul
+- Amortisseur à rondelles Belleville
+
+
+8.D) Facilité d'Approvisionnement :
+
+Néant
+
+
+9) RC :
+
+- Poignée de transport
+- Crosse ergonomique

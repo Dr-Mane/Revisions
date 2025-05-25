@@ -1,0 +1,26 @@
+#FRF2022.01
+
+
+Quel est le cadre d'ordre pour un tir au fusil d'assaut / arme de poing ?
+
+Consommation (nombre de chargeurs ou de munitions)
+Objectif (désigné sur le terrain en précisant si possible la distance)
+Débit (coup par coup, CPCR, doublettes, triplettes / rafales de 3, etc...)
+Feu (immédiatement, à mon commandement, à votre initiative)
+
+
+Quel est le cardre d'ordre pour un tir à la mitrailleuse ?
+
+Hausse (en centaines de mètres)
+Consommation (nombre de bandes, nombre de cartouches)
+Objectif (désigné sur le terrain en précisant si possible la distance)
+Débit (rafales courtes, rafales longues, continu)
+Feu (immédiatement, à mon commandement, à votre initiative)
+
+Quel est le cadre d'ordre pour un tir de grenade à fusil ?
+
+Genre et nombre de grenades (1, 2, 3... grenades d'exercice, explosives, éclairantes, fumigènes
+Distance (pour le réglage de la bague d'enfoncement du FAMAS ou l'alidade de tir tendu sur FAMAS FELIN)
+N
+Objectif (désigné sur le terrain en précisant si possible la distance)
+Feu (immédiatement, à mon commandement, à votre initiative)

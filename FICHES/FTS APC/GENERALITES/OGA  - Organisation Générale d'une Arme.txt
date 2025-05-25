@@ -1,0 +1,116 @@
+#FFR2022.01
+
+Premier élément :
+
+Classification
+
+
+Deuxième élément :
+
+Désignation
+
+
+1 :
+
+Dispositif Assurant le Lancement du Projectile (DALP)
+
+
+2 :
+
+Système de Fermeture (SF)
+
+
+3 :
+
+Système Moteur (SM)
+
+
+4 :
+
+Système de Mise de Feu (SMdF)
+
+
+4.1 :
+
+Un Mécanisme de Percussion (MP)
+
+
+4.2 :
+
+Un Mécanisme de Détente (MD)
+
+
+4.3 :
+
+Un ou des Mécanismes de Sûreté (MS) : 
+	- Sûreté Non-Automatique (SNA)
+	- Sûreté Automatique (SA)
+
+
+4.4 :
+
+Un ou des Dispositifs de Sécurité (DS)
+
+
+5 :
+
+Système d'Alimentation (SA)
+
+
+5.1 :
+
+Magasin (Mag)
+
+
+5.2 :
+
+Extraction (Ex)
+
+5.3 :
+
+Éjection (Ej)
+
+
+6 :
+
+Dispositif ou Appareil de Pointage (AP)
+
+
+7 :
+
+Systèmes Accessoires à la Puissance de Feu (APF)
+
+
+7.1 :
+
+Refroidissement (R)
+
+
+7.2 :
+
+Cadence (C)
+
+
+7.3 :
+
+Réduction des Réactions dues au Tir (RRT)
+
+
+7.4 :
+
+Facilité d'Approvisionnement (FA)
+
+
+8 :
+
+Renseignements Complémentaires (RC)
+
+
+Troisième élément :
+
+Pièces matriculées
+
+
+Quatrième élément :
+
+Pièces de sécurité

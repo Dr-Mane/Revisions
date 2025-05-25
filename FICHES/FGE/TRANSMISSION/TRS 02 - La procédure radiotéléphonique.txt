@@ -1,0 +1,67 @@
+#FFR2022.01
+
+Définition de la procédure radiotéléphonique :
+
+La procédure radiotéléphonique est un ensemble de règles qui fixent la forme et la succession des émissions.
+Elle a pour but de garantir l'exactitude, la rapidité et la sécurité des transmissions.
+
+
+Composition d'une transmission :
+
+- L'appel
+- La conversation (préparée, précise, concise). Elle doit être claire
+- Le final : à la fin de chaque émission 
+	- "Parlez" : fin de ma transmission
+	- "Attendez" : Arrêt de ma transmission quelques secondes
+	- "Terminé" : Arrêt définitif de ma transmission
+
+
+Quelles sont les deux indications sur la liaison à donner lors d'un contrôle radio ?
+
+La force et la lisibilité
+
+
+Quels sont les différents niveaux de force ?
+
+- Fort
+- Assez fort
+- Faible
+- Très faible
+
+
+Quels sont les différents niveaux de lisibilité ?
+
+- Clair
+- Lisible
+- Déformé
+- Avec interférences
+
+
+Qu'est-ce que le collationnement ?
+
+C'est le fait de répéter le message dans son intégralité en commençant par "Je collationne" sur demande du correspondant afin qu'il s'assure que nous ayons bien reçu son message.
+
+
+Qu'est-ce que l'aperçu ?
+
+C'est le fait d'indiquer que nous avons bien compris les consignes du message et que nous sommes en mesure de les suivre. Le correspondant demande "Faites l'aperçu" et nous répondons "Aperçu".
+
+
+Que faut-il dire pour rectifier une erreur dans la transmission ?
+
+"Correction"
+
+
+Que faut-il dire pour indiquer de ne pas prendre en compte la transmission ?
+
+"Annulez la transmission"
+
+
+Que faut-il dire pour demander temporairement l'arrêt des transmissions ?
+
+"Silence ! Silence ! Silence !"
+
+
+Que faut-il dire pour autoriser la reprise des communications ?
+
+"Silence suspendu"

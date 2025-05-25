@@ -1,0 +1,136 @@
+#FFR2022.01
+
+
+Classification :
+
+- Lance grenades
+- Arme non automatique
+- A chargement simple par l'arrière. A double action constante
+
+
+Désignation :
+
+- Lance grenade modulaire
+- 40x46mm BV
+- 269 F
+- HK (Heckler & Koch)
+
+
+Pièce de sécurité :
+
+Le canon
+
+
+Pièces matriculées :
+
+- La carcasse
+- Le canon
+
+
+1) DALP :
+
+- Canon rayé, 6 rayures à droite au pas de 1200mm
+- Chambre pour étui cylindrique
+
+
+2) SF :
+
+Culasse fixe, à canon oscillant
+
+
+3) SM :
+
+Travail musculaire du servant
+
+
+4.A) Mécanisme de détente :
+
+Simple de détente :
+	Double action constante : Echappement de la masse percutante
+
+
+4.B) Mécanisme de percussion :
+
+- Percussion circulaire
+- Percuteur solidaire de la masse percutante
+- Retrait mécanique du percuteur
+- Armé culasse fermée
+
+
+5.A) Sûretés :
+
+- Sûretés non automatiques :
+	Levier enrayant la masse percutante
+//
+- Sûretés automatiques :
+	- Sûreté de détente (verrouillage du canon)
+	- Sûreté du marteau (de percuteur)
+
+
+
+5.B) Sécurités au verrouillage :
+
+Levier de sécurité (levier de verrouillage du canon)
+
+
+5.C) Sécurités complémentaires :
+
+- Sécurité au déverrouillage :
+	Néant
+//
+- Retrait du percuteur :
+	Retrait du percuteur par le ressort de rappel du marteau
+//
+- Sécurité à la percussion :
+	Ressort de rebondissement
+//
+- Cran de sécurité :
+	Néant
+
+
+6.1) Magasin :
+
+Néant
+
+
+6.2) Extracteur :
+
+Néant, extraction manuelle de l'étui
+
+
+6.3) Ejecteur :
+
+Néant, éjection manuelle de l'étui
+
+
+7) AP :
+
+- Hausse ambidextre à visée multiple :
+	- Planche de hausse graduée tous les 50 m, à partir de 50 m et jusqu'à 300 m et réglable en direction
+	- Guidon rectangulaire réglable en hauteur
+
+
+8.A) Refroidissement :
+
+Néant
+
+
+8.B) Cadence :
+
+Néant
+
+
+8.C) Réduction des Réactions dues au Tir :
+
+Angle de couche nul
+
+
+8.D) Facilité d'Approvisionnement :
+
+Néant
+
+
+9) RC :
+
+- Crosse à 6 positions
+- Chargement, visée et levier sélecteur ambidextres
